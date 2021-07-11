@@ -27,10 +27,10 @@ class MyApp extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Text(
-                      'Flutter McFlutter',
+                      'Dan Heslinga',
                       style: Theme.of(context).textTheme.headline5,
                     ),
-                    Text('Experienced App Developer'),
+                    Text('Novice App Developer'),
                   ],
                 ),
               ],
@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [Text('123 Main Street'), Text('(415) 555-0198')],
+              children: [Text('2386 Liloa Rise'), Text('(808) 729-1796')],
             ),
             SizedBox(
               height: 16,
